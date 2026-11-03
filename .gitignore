@@ -1,0 +1,10 @@
+__pycache__/
+.pytest_cache/
+.venv/
+venv/
+*.py[cod]
+*.joblib
+data/*.xlsx
+data/*.csv
+!data/README.md
+.streamlit/secrets.toml
